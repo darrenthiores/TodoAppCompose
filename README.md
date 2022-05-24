@@ -6,16 +6,15 @@ As the database this app using Room Database as it is local database.
 
 Home Screen
 
-![Screenshot_20220521_230415](https://user-images.githubusercontent.com/69592810/169661214-f3de7fc3-9000-4cff-8e92-3ce4e9139dec.png)
-<img src="https://user-images.githubusercontent.com/69592810/169661214-f3de7fc3-9000-4cff-8e92-3ce4e9139dec.png" width="50%" height="50%">
+<img src="https://user-images.githubusercontent.com/69592810/169661214-f3de7fc3-9000-4cff-8e92-3ce4e9139dec.png" width="35%" height="35%">
 
 Add Screen
 
-![Screenshot_20220521_230500](https://user-images.githubusercontent.com/69592810/169661225-7130ab1d-e22d-4759-a527-5461f8b3d0ef.png)
+<img src="https://user-images.githubusercontent.com/69592810/169661225-7130ab1d-e22d-4759-a527-5461f8b3d0ef.png" width="35%" height="35%">
 
 Edit Screen
 
-![Screenshot_20220521_230443](https://user-images.githubusercontent.com/69592810/169661230-eba708ff-9516-4b3b-9e56-5adad21cb87f.png)
+<img src="https://user-images.githubusercontent.com/69592810/169661230-eba708ff-9516-4b3b-9e56-5adad21cb87f.png" width="35%" height="35%">
 
 
 
