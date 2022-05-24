@@ -7,6 +7,7 @@ As the database this app using Room Database as it is local database.
 Home Screen
 
 ![Screenshot_20220521_230415](https://user-images.githubusercontent.com/69592810/169661214-f3de7fc3-9000-4cff-8e92-3ce4e9139dec.png)
+<img src="https://user-images.githubusercontent.com/69592810/169661214-f3de7fc3-9000-4cff-8e92-3ce4e9139dec.png" width="50%" height="50%">
 
 Add Screen
 
